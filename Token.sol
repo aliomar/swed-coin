@@ -1,4 +1,4 @@
-pragma solidity ^0.4.8;
+pragma solidity ^0.4.16;
 
 contract Token {
     /// total amount of tokens
